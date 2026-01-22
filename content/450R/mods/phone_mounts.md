@@ -16,3 +16,5 @@ There are always the standard fare RAM, QuadLock, Rokform, etc
   - [3D printed Ram Ball mount](https://www.printables.com/fr/model/662110-kove-450-rally-gps-tablet-carplay-c7-gopro-mount-u)
 
     ![3D printed Ram Ball mount](/img/450R_3d_print_tablet_over_under_dash.png)
+
+    - [Quadlock with vibration mount and wireless charging](https://www.quadlockcase.com/collections/build-your-own?selected=eyJoZWFkIjoiUUxILVdQLVdDSCIsInBvd2VyIjoiUUxWLTM2MC1QQlgiLCJ2ZG0iOiJRTFYtMzYwLVZETSIsImFybSI6IlFMUC0zNjAtRFBTIiwiYmFzZSI6IlFMUC0zNjAtQkNNIn0=)
