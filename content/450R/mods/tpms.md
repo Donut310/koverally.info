@@ -5,3 +5,5 @@ draft = false
 +++
 
 TPMS Options
+
+- [DMD (Drive Mode Dashboard) TPMS valve plugs. Requires DMD Tablet, or DMD app installed on Android device](https://adv-tim.com/products/dmd-tpms-sensor-kit)
