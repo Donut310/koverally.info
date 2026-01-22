@@ -24,4 +24,5 @@ draft = false
 - There is no sight glass to check oil level
   - [How to check your oil level](/450R/mods/engine.md#oil)
 - Neck bearings failing after less than 2500km
-  - Numerous people giving feedback that neck bearings have failed. If you are planning on doing long trips / racing you should replace them with Japanese bearings. 
+  - Numerous people giving feedback that neck bearings have failed. If you are planning on doing long trips / racing you should replace them with Japanese bearings.
+  - Front ABS is known to come loose, following a squeel or rattle on the front wheel. Secure with blue loctite. 
