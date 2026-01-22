@@ -17,6 +17,10 @@ The Magura Hymec Hydrolic clutch is a direct drop in hydrolic upgrade for the Ko
 
 [Source](https://www.facebook.com/groups/1137977753521359/permalink/1443815819604216/)
 
+## Rekluse Manual and Auto Clutch Packs (compatible with Magura Hydraulic Clutch)
+- https://www.rekluse.com/product/auto-clutches/radiusx/radiusx-clutches/radiusx-kove-450/
+- https://www.rekluse.com/product/manual-clutches/torq-drive-clutch-pack/torqdrive-clutch-pack-kove-450/
+
 ## Clutch Pack Replacement / Cross Reference
 
 The NC 450 motor shares some parts with the older Honda engines, specifically 2002–2007 Honda CRF450R and 2005–2017 CRF450X. Clutch packs for these models can be used with the Kove 450.
